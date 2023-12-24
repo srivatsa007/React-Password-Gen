@@ -1,3 +1,11 @@
+# Password Generator
+
+[Hosted Link](https://main--gilded-malasada-780407.netlify.app/)
+____
+![image](https://github.com/srivatsa007/React-Password-Gen/assets/70172502/72c7bd51-0517-4434-b41b-b033fe6bb7de)
+
+____
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
